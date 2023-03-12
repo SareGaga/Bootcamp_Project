@@ -37,7 +37,7 @@ def Main():
         print("Geçersiz seçim")
 
 
-    bill = pizza.get_cost() + pizza.get_cost()
+    bill = pizza.get_cost() + sos.get_cost()
 
 
     isim = input("Lütfen adınızı giriniz : ")
